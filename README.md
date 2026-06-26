@@ -1,4 +1,4 @@
-# Hi, I'm Saygın 👋
+# Hi, I'm Tülay 👋
 
 I'm a Computer Engineering student at METU NCC who enjoys building software and learning by creating real-world projects.
 
