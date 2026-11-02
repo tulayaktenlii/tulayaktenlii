@@ -1,46 +1,51 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=180&section=header&text=Hello%20World!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF80BF,50:D99BFF,100:FFB3D9&height=190&section=header&text=Hello%20World!%20%F0%9F%8C%B8&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" alt="Pink Header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey!+I'm+Tulay+%F0%9F%91%8B;3rd+Year+Computer+Engineering+Student;Interested+in+iOS+Development+%F0%9F%93%B1;Passionate+about+Game+Development+%F0%9F%8E%AE;Learning.+Building.+Creating." alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1100&color=FF80BF&center=true&vCenter=true&width=750&lines=Hi!+I'm+Tulay+%F0%9F%91%8B;3rd+Year+Computer+Engineering+Student;Exploring+iOS+Development+%F0%9F%93%B1;Interested+in+Game+Development+%F0%9F%8E%AE;Learning%2C+Building%2C+Creating+%E2%9C%A8" alt="Typing Animation"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=tulayaktenli&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" alt="Profile Views" />
+<a href="https://github.com/tulayaktenlii">
+  <img src="https://img.shields.io/badge/GitHub-tulayaktenlii-FF80BF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=tulayaktenlii&label=Profile+Views&color=FF80BF&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🌸 A Little About Me
 
 ```swift
-struct Developer {
-    let name = "Tulay"
+struct Tulay {
     let education = "3rd Year Computer Engineering Student"
 
     let interests = [
         "iOS Development 📱",
         "Game Development 🎮",
-        "Software Development 💻"
+        "Software Engineering 💻"
     ]
 
-    let languages = [
+    let programmingLanguages = [
         "C", "C++", "Python",
-        "Swift", "SwiftUI", "Java"
+        "Swift", "Java"
     ]
 
-    let mindset = "Learn. Build. Create. Repeat."
+    let frameworks = ["SwiftUI"]
+
+    let mindset = "Keep learning, keep creating ✨"
 }
 ```
 
 - 🎓 I'm a **3rd Year Computer Engineering Student**
-- 📱 Interested in **iOS Development** with Swift & SwiftUI
-- 🎮 Passionate about **Game Development** and interactive experiences
-- 💻 Exploring different areas of software development
-- 🌱 Always learning new technologies and improving my skills
-- ✨ I love turning ideas into real projects
+- 📱 Interested in developing iOS applications using **Swift & SwiftUI**
+- 🎮 Exploring the creative world of **Game Development**
+- 💻 I enjoy programming, problem-solving and building projects
+- 🌷 Always curious about new technologies and creative ideas
+- ✨ Learning a little more with every project
 
 ---
 
@@ -48,84 +53,92 @@ struct Developer {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,swift,java&theme=dark&perline=5" alt="Programming Languages" />
+### 💗 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,swift,java&theme=dark&perline=5" alt="Programming Languages"/>
+
+<br/>
+
+### 🌷 Frameworks & Tools
+
+<img src="https://img.shields.io/badge/SwiftUI-FF80BF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark&perline=4" alt="Development Tools" />
+<img src="https://skillicons.dev/icons?i=xcode,git,github,vscode,idea&theme=dark&perline=5" alt="Development Tools"/>
 
 </div>
 
 ---
 
-## 🎯 Areas of Interest
+## 🎀 Areas I'm Passionate About
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/iOS_Development-000000?style=for-the-badge&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Game_Development-6E40C9?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/Software_Engineering-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/iOS_Development-FF80BF?style=for-the-badge&logo=apple&logoColor=white" alt="iOS Development"/>
+
+<img src="https://img.shields.io/badge/Game_Development-C4A1FF?style=for-the-badge&logo=unity&logoColor=white" alt="Game Development"/>
+
+<img src="https://img.shields.io/badge/Software_Development-FFB3D9?style=for-the-badge&logo=github&logoColor=242424" alt="Software Development"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 My GitHub Journey
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=tulayaktenli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=tulayaktenlii&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF80BF&icon_color=C4A1FF&text_color=FFB3D9&ring_color=FF80BF" alt="GitHub Stats"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulayaktenli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulayaktenlii&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF80BF&text_color=FFB3D9" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=tulayaktenli&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FFB86C&currStreakLabel=58A6FF" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=tulayaktenlii&theme=radical&hide_border=true&background=0D1117&ring=FF80BF&fire=FFB3D9&currStreakLabel=FF80BF&sideLabels=C4A1FF&dates=FFB3D9" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 My Contribution Garden
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tulayaktenli/tulayaktenli/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tulayaktenli/tulayaktenli/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/tulayaktenli/tulayaktenli/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tulayaktenlii/tulayaktenlii/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tulayaktenlii/tulayaktenlii/output/github-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/tulayaktenlii/tulayaktenlii/output/github-snake.svg" width="100%"/>
 </picture>
 
-</div>
+<br/>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tulayaktenli&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+<sub>🌸 A little pink snake collecting my contributions!</sub>
 
 </div>
 
 ---
 
-## 💭 Developer Mindset
+## 💌 Let's Connect!
 
 <div align="center">
 
-> "Great things are done by a series of small things brought together."
+I'm always happy to discover new ideas, learn new things, and connect with other developers!
 
 <br/>
 
-**Code. Create. Learn. Repeat.** 💙
+<a href="https://github.com/tulayaktenlii">
+  <img src="https://img.shields.io/badge/Follow_My_Journey-FF80BF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+</a>
+
+<br/><br/>
+
+### 🌷 Thanks for stopping by!
+
+*"Dream it. Code it. Create it."*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=120&section=footer" width="100%" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF80BF,50:D99BFF,100:FFB3D9&height=125&section=footer" alt="Footer"/>
 
 </div>
